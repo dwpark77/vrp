@@ -22,3 +22,6 @@ python3 solve.py
 ```
 
 The script reads the sample dataset in `problem-docs` and creates `Result.xlsx` in the same directory.
+
+## Open AI Codex
+https://chatgpt.com/s/cd_68636f14bf6c8191a1df45f9a143dd0d
